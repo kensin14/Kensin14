@@ -48,12 +48,10 @@
 
 ## 🐍 Snake Grid
 
+## 📊 Contribution
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kensin14/Kensin14/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake grid" src="https://raw.githubusercontent.com/kensin14/Kensin14/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=kensin14&show_icons=true&theme=dracula" width="80%" alt="GitHub Stats" />
 </p>
 
 ---
-
