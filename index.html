@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pong Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="game-shell">
+      <div class="scoreboard" aria-live="polite">
+        <div class="score-box">
+          <span class="label">Player</span>
+          <span id="playerScore">0</span>
+        </div>
+        <div class="score-box">
+          <span class="label">CPU</span>
+          <span id="cpuScore">0</span>
+        </div>
+      </div>
+
+      <canvas id="gameCanvas" width="900" height="520" aria-label="Pong game canvas"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
