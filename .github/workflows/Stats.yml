@@ -1,4 +1,3 @@
-
 name: Update GitHub Profile Statistics
 
 on:
@@ -17,6 +16,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -29,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=kensin14&layout=compact&langs_count=8&theme=dracula&hide_border=true
+          options: username=kensin14&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,css,js
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
