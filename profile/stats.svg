@@ -1,0 +1,52 @@
+<svg width="860" height="220" viewBox="0 0 860 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="860" y1="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="220" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="858" height="218" rx="19" stroke="#2D3748"/>
+
+  <text x="36" y="48" fill="#F8FAFC" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">GitHub Stats</text>
+  <text x="36" y="76" fill="#C4B5FD" font-size="14" font-family="Segoe UI, Arial, sans-serif">kensin14/Kensin14</text>
+
+  <g>
+    <rect x="36" y="106" width="148" height="64" rx="12" fill="#111827" stroke="#374151"/>
+    <text x="52" y="132" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">Total PRs</text>
+    <text x="52" y="155" fill="#F8FAFC" font-size="27" font-family="Segoe UI, Arial, sans-serif" font-weight="700">24</text>
+  </g>
+
+  <g>
+    <rect x="202" y="106" width="148" height="64" rx="12" fill="#111827" stroke="#374151"/>
+    <text x="218" y="132" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">Commits</text>
+    <text x="218" y="155" fill="#F8FAFC" font-size="27" font-family="Segoe UI, Arial, sans-serif" font-weight="700">314</text>
+  </g>
+
+  <g>
+    <rect x="368" y="106" width="148" height="64" rx="12" fill="#111827" stroke="#374151"/>
+    <text x="384" y="132" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">Repositories</text>
+    <text x="384" y="155" fill="#F8FAFC" font-size="27" font-family="Segoe UI, Arial, sans-serif" font-weight="700">18</text>
+  </g>
+
+  <g>
+    <rect x="534" y="106" width="148" height="64" rx="12" fill="#111827" stroke="#374151"/>
+    <text x="550" y="132" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">Followers</text>
+    <text x="550" y="155" fill="#F8FAFC" font-size="27" font-family="Segoe UI, Arial, sans-serif" font-weight="700">12</text>
+  </g>
+
+  <g>
+    <rect x="700" y="106" width="124" height="64" rx="12" fill="#111827" stroke="#374151"/>
+    <text x="716" y="132" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">Focus</text>
+    <text x="716" y="155" fill="#F8FAFC" font-size="21" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Web Dev</text>
+  </g>
+
+  <rect x="36" y="186" width="788" height="10" rx="5" fill="#1F2937"/>
+  <rect x="36" y="186" width="470" height="10" rx="5" fill="url(#accent)"/>
+  <text x="36" y="207" fill="#A5B4FC" font-size="12" font-family="Segoe UI, Arial, sans-serif">Languages: HTML • CSS • JS • PHP • SQL</text>
+</svg>

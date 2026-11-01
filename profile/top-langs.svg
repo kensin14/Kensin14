@@ -1,0 +1,42 @@
+<svg width="860" height="220" viewBox="0 0 860 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="860" y1="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="220" rx="20" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="858" height="218" rx="19" stroke="#374151"/>
+
+  <text x="36" y="48" fill="#F8FAFC" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Top Languages</text>
+  <text x="36" y="78" fill="#C4B5FD" font-size="14" font-family="Segoe UI, Arial, sans-serif">Main technologies in this profile repo</text>
+
+  <g>
+    <text x="42" y="120" fill="#F8FAFC" font-size="14" font-family="Segoe UI, Arial, sans-serif">HTML</text>
+    <text x="742" y="120" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">38%</text>
+    <rect x="102" y="108" width="640" height="12" rx="6" fill="#1F2937"/>
+    <rect x="102" y="108" width="243" height="12" rx="6" fill="#E34C26"/>
+  </g>
+
+  <g>
+    <text x="42" y="152" fill="#F8FAFC" font-size="14" font-family="Segoe UI, Arial, sans-serif">CSS</text>
+    <text x="742" y="152" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">22%</text>
+    <rect x="102" y="140" width="640" height="12" rx="6" fill="#1F2937"/>
+    <rect x="102" y="140" width="141" height="12" rx="6" fill="#1572B6"/>
+  </g>
+
+  <g>
+    <text x="42" y="184" fill="#F8FAFC" font-size="14" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
+    <text x="742" y="184" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">18%</text>
+    <rect x="102" y="172" width="640" height="12" rx="6" fill="#1F2937"/>
+    <rect x="102" y="172" width="115" height="12" rx="6" fill="#F7DF1E"/>
+  </g>
+
+  <g>
+    <text x="42" y="202" fill="#F8FAFC" font-size="14" font-family="Segoe UI, Arial, sans-serif">PHP</text>
+    <text x="742" y="202" fill="#94A3B8" font-size="12" font-family="Segoe UI, Arial, sans-serif">14%</text>
+    <rect x="102" y="190" width="640" height="12" rx="6" fill="#1F2937"/>
+    <rect x="102" y="190" width="90" height="12" rx="6" fill="#777BB4"/>
+  </g>
+</svg>
