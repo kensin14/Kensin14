@@ -127,13 +127,13 @@ function updateBall() {
     state.ball.speedY = impact * 7;
   }
 
-  if (state.ball.x + state.ball.radius < 0) {
+  if (state.ball.x - state.ball.radius < 0) {
     state.scores.cpu += 1;
     updateScoreboard();
     resetBall(1);
   }
 
-  if (state.ball.x - state.ball.radius > canvas.width) {
+  if (state.ball.x + state.ball.radius > canvas.width) {
     state.scores.player += 1;
     updateScoreboard();
     resetBall(-1);
@@ -204,4 +204,3 @@ canvas.addEventListener('mousemove', (event) => {
 updateScoreboard();
 resetBall(1);
 requestAnimationFrame(gameLoop);
-
