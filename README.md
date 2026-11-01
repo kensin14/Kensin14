@@ -45,6 +45,7 @@
 </p>
 
 ---
+
 ## 🐍 Snake Grid
 
 <p align="center">
@@ -55,3 +56,4 @@
 </p>
 
 ---
+
