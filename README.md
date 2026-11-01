@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Creative+Web+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;Building+modern+web+experiences" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://github.com/kensin14">
+  <a href="https://github.com/kensin14" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
