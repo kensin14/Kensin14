@@ -45,13 +45,3 @@
 </p>
 
 ---
-
-## 🐍 Snake Grid
-
-## 📊 Contribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kensin14&show_icons=true&theme=dracula" width="80%" alt="GitHub Stats" />
-</p>
-
----
